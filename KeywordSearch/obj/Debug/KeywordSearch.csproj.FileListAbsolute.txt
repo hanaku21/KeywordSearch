@@ -1,0 +1,6 @@
+D:\Test\KeywordSearch\KeywordSearch\obj\Debug\KeywordSearch.csprojResolveAssemblyReference.cache
+D:\Test\KeywordSearch\KeywordSearch\bin\Debug\KeywordSearch.exe.config
+D:\Test\KeywordSearch\KeywordSearch\bin\Debug\KeywordSearch.exe
+D:\Test\KeywordSearch\KeywordSearch\bin\Debug\KeywordSearch.pdb
+D:\Test\KeywordSearch\KeywordSearch\obj\Debug\KeywordSearch.exe
+D:\Test\KeywordSearch\KeywordSearch\obj\Debug\KeywordSearch.pdb
